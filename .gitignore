@@ -1,0 +1,8 @@
+*.aux
+*.log
+*.syntex.gz
+*.tex
+
+.ipynb_checkpoint/
+data/
+unpacked_scans/
